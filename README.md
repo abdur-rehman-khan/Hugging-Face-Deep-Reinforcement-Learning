@@ -75,42 +75,7 @@
       "metadata": {
         "id": "Ff-nyJdzJPND"
       },
-      "source": [
-        "## This notebook is from Deep Reinforcement Learning Course\n",
-        "\n",
-        "<img src=\"https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/notebooks/deep-rl-course-illustration.jpg\" alt=\"Deep RL Course illustration\"/>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "6p5HnEefISCB"
-      },
-      "source": [
-        "In this free course, you will:\n",
-        "\n",
-        "- 📖 Study Deep Reinforcement Learning in **theory and practice**.\n",
-        "- 🧑‍💻 Learn to **use famous Deep RL libraries** such as Stable Baselines3, RL Baselines3 Zoo, CleanRL and Sample Factory 2.0.\n",
-        "- 🤖 Train **agents in unique environments**\n",
-        "- 🎓 **Earn a certificate of completion** by completing 80% of the assignments.\n",
-        "\n",
-        "And more!\n",
-        "\n",
-        "Check 📚 the syllabus 👉 https://simoninithomas.github.io/deep-rl-course\n",
-        "\n",
-        "Don’t forget to **<a href=\"http://eepurl.com/ic5ZUD\">sign up to the course</a>** (we are collecting your email to be able to **send you the links when each Unit is published and give you information about the challenges and updates).**\n",
-        "\n",
-        "The best way to keep in touch and ask questions is **to join our discord server** to exchange with the community and with us 👉🏻 https://discord.gg/ydHrjt3WP5"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "Y-mo_6rXIjRi"
-      },
-      "source": [
-        "## Prerequisites 🏗️\n",
-        "\n",
+
         "Before diving into the notebook, you need to:\n",
         "\n",
         "🔲 📝 **[Read Unit 0](https://huggingface.co/deep-rl-course/unit0/introduction)** that gives you all the **information about the course and helps you to onboard** 🤗\n",
